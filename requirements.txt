@@ -1,0 +1,13 @@
+rdkit
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+torch
+tensorflow
+gradio
